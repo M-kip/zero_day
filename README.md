@@ -1,1 +1,1 @@
-## vagrant congigration
+vagrant configration
